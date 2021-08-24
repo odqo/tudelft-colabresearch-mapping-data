@@ -2,7 +2,8 @@
 
 Data repository for the [Co-Lab Research Mapping webapp](https://mapping.co-lab-research.net/).
 
-More information: [tudelft-colabresearch-mapping-converter](https://github.com/odqo/tudelft-colabresearch-mapping-converter)
+More information:  
+[tudelft-colabresearch-mapping-converter](https://github.com/odqo/tudelft-colabresearch-mapping-converter)
 
 
 ## Usage
