@@ -8,7 +8,8 @@ More information:
 
 ## Usage
 
-1. Push the generated `json`, `csv` and `sqlite` files to this repository.
+1. Run [the converter](https://github.com/odqo/tudelft-colabresearch-mapping-converter).
+2. Push the generated `json`, `csv` and `sqlite` files to this repository.
 2. The updated data is then displayed by the webapp.
 
 **Notes**
